@@ -60,6 +60,6 @@ Secondly you have to show the grade message (Like as: “You got A+”) by follo
      echo "You got A+";
     }
     else{
-      echo "skjfhsf";
+      echo "Results is Not Found"";
     }
 ?>
